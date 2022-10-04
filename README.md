@@ -1,6 +1,6 @@
-# Newsletter-Improvement
+# Newsletter-UI Text-Improvement
 
-## Increasing sign-up through improved newsletter copy
+## Improving newsletter UI text to increase sign-up
 
 Newsletters are electronic documents that provide up-to-date information about products or services through e-mail. In addition to keeping the user informed about your product or brand, the newsletter cultivates a relationship based on trust and familiarity.
 
@@ -8,7 +8,7 @@ The article outlines steps to improve LessonsUp's newsletter.
 
 ##### Background
 
-LessonsUp connects job-seekers with hiring companies by helping candidates demonstrate their skills, expertise, and experience.
+roadmap, formerly known as LessonsUp, connects job-seekers with hiring companies by helping candidates demonstrate their skills, expertise, and experience.
 
 Figure one shows the LessonsUp newsletter form:
 
